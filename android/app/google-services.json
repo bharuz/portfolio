@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247083996911",
+    "project_id": "innate-star-447108-g0",
+    "storage_bucket": "innate-star-447108-g0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247083996911:android:a15b1993a23d237f8b2d1a",
+        "android_client_info": {
+          "package_name": "com.example.port"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqOaVDiofq4tPytMt4GFB63zfTTJF008"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
